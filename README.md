@@ -1,5 +1,5 @@
 # New-Jeans-Labeler
-
+- Labels each person in videos by their name using OpenCV
 
 ## /TRAININGIMAGES and /TESTINGIMAGES
   - Includes the dataset for training and testing the model
