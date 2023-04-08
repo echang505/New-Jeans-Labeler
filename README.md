@@ -11,7 +11,7 @@
 
 
 ## main.py
-  - creates model
+  - creates model using OpenCV face recognition
 ## restructure.py
   - restructures TestingImages to a format that can be tested by tester.py
   - Removes foldername and moves each image inside to RestructuredTestingImages with new name [ID]_[IMAGENUM]
